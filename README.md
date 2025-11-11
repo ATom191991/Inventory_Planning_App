@@ -9,7 +9,7 @@ An interactive Streamlit web application for analyzing inventory health, forecas
 - Forecast Accuracy (12M Baseline, 3M Trend, Seasonality Comparison)
 
 ### 🚀 Live Demo
-https://your-streamlit-link-here
+https://inventoryplanningapp-aastha-tomar.streamlit.app
 
 ### 📂 Dataset Location
 `/data` folder contains sample datasets used for demonstration.
