@@ -1,0 +1,21 @@
+SKU,Product,Lead Time (days),Policy,Service Level,Z,Holding Cost,Order Cost,Supplier,Category,Min Stock,Max Stock,Unit Cost,Selling Price,Margin %
+SKU001,Medicine A,15,MTS,95%,1.65,10,500,Supplier A,Critical,2000,6000,50,100,50.0
+SKU002,Medicine B,12,MTS,95%,1.65,8,400,Supplier B,Regular,1500,5000,40,80,50.0
+SKU003,Medicine C,14,MTS,95%,1.65,9,450,Supplier C,Regular,1600,5200,45,90,50.0
+SKU004,Medicine D,10,MTS,95%,1.65,6,400,Supplier A,Regular,1000,4000,30,60,50.0
+SKU005,Medicine E,12,MTS,95%,1.65,7,450,Supplier D,Regular,1200,4200,35,70,50.0
+SKU006,Medicine F,18,MTS,95%,1.65,12,600,Supplier A,Critical,2500,7000,60,120,50.0
+SKU007,Medicine G,15,MTS,95%,1.65,8,500,Supplier E,Regular,1600,5200,40,80,50.0
+SKU008,Medicine H,20,MTS,95%,1.65,12,700,Supplier B,Critical,3000,8000,60,120,50.0
+SKU009,Medicine I,12,MTS,95%,1.65,6,400,Supplier C,Regular,1300,4200,30,60,50.0
+SKU010,Medicine J,14,MTS,95%,1.65,8,500,Supplier A,Regular,1600,5200,40,80,50.0
+SKU011,Medicine K,10,MTS,95%,1.65,5,400,Supplier B,Regular,800,3000,25,50,50.0
+SKU012,Medicine L,15,MTS,95%,1.65,7,500,Supplier C,Regular,1300,4200,35,70,50.0
+SKU013,Medicine M,12,MTS,95%,1.65,6,450,Supplier D,Regular,1200,4000,30,60,50.0
+SKU014,Medicine N,8,MTS,95%,1.65,5,300,Supplier E,Regular,600,2500,25,50,50.0
+SKU015,Medicine O,20,MTS,95%,1.65,15,800,Supplier A,Critical,3000,8000,75,150,50.0
+SKU016,Medicine P,10,MTS,95%,1.65,7,400,Supplier B,Regular,1300,4200,35,70,50.0
+SKU017,Medicine Q,12,MTS,95%,1.65,7,450,Supplier C,Regular,1100,4000,35,70,50.0
+SKU018,Medicine R,15,MTS,95%,1.65,10,500,Supplier A,Critical,2000,6000,50,100,50.0
+SKU019,Medicine S,10,MTS,95%,1.65,6,400,Supplier D,Regular,1200,4000,30,60,50.0
+SKU020,Medicine T,14,MTS,95%,1.65,8,500,Supplier E,Regular,1500,5000,40,80,50.0
